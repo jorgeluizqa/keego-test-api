@@ -1,0 +1,14 @@
+{
+  "name": "keego-test-api",
+  "version": "1.0.0",
+  "description": "Teste adimssional Keego",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jorge Luiz Cardoso",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
